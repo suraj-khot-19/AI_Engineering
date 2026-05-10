@@ -1,0 +1,5 @@
+Hi, I’m Suraj Khot, a Software Developer at Tata Consultancy Services (TCS). I work on building and maintaining enterprise applications, mainly focusing on backend services, chatbot automation, API integrations, and internal dashboards.
+
+I have hands-on experience with Node.js, TypeScript, React, MongoDB, and cloud platforms, along with a strong foundation in Java, JavaScript, HTML, CSS, and SQL. I enjoy solving real problems, working across both backend and frontend, and continuously improving the systems I work on.
+
+I’m always curious to learn new technologies and build solutions that are practical, reliable, and useful.
